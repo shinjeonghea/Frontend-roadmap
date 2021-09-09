@@ -1,4 +1,8 @@
-# Domain Names
+# Domain Name
+
+:writing_hand: *write by shinjeonghea*
+
+## 도메인 네임
 
 
 
