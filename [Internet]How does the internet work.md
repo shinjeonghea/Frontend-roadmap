@@ -2,7 +2,6 @@
 
 :writing_hand: *write by shinjoenghea*
 
-<BR>
 
 ## 인터넷
 
@@ -111,10 +110,10 @@
 :pushpin: 인터넷 작동원리에서 언급되었던 광케이블과 같은 데이터를 전송하는 방식에 대해 알고싶다면 이 [링크](https://youtu.be/ZhEf7e4kopM) 를 통해 확인하자.
 
 :pushpin: 인터넷 작동원리에서 언급된 [Domain Name](./[Internet]What%20is%20Domain%20Name.md)과 [DNS]([Internet]DNS%20and%20how%20it%20works.md)에 대해서 알아보도록 하자.
-<br>
+
 -----------
 
-##### :clipboard: [참조] Reference
+### :clipboard: [참조] Reference
 
 - [roadmap.sh - How does the internet work?](https://roadmap.sh/guides/what-is-internet)
 - [[Internet] 인터넷? 개념잡기 작동원리-IMBETPY](https://velog.io/@doomchit_3/Internet-internet-what-how-IMBETPY)
