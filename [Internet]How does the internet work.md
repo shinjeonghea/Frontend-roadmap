@@ -86,7 +86,7 @@
 
 - 이 문제를 해결하기 위해 전력 및 전화와 같이 이미 집에 연결된 케이블인 **전화선** 을 이용하기로 했다.
 
-- 네트워크와 전화시설을 연결하기 위해선, **모뎀(MODEM, MOdulator and DEModulator)**이라는 특수 장비가 필요하다.
+- 네트워크와 전화시설을 연결하기 위해선, **모뎀(MODEM, MOdulator and DEModulator)** 이라는 특수 장비가 필요하다.
 
   <small>모뎀 : 네트워크 정보를 전화시설에서 처리할 수 있는 정보로 변환해주는 장비, 그 반대의 경우도 마찬가지 이다.<small>
 
@@ -111,7 +111,7 @@
 :pushpin: 인터넷 작동원리에서 언급되었던 광케이블과 같은 데이터를 전송하는 방식에 대해 알고싶다면 이 [링크](https://youtu.be/ZhEf7e4kopM) 를 통해 확인하자.
 
 :pushpin: 인터넷 작동원리에서 언급된 [Domain Name](./[Internet]What%20is%20Domain%20Name.md)과 [DNS]([Internet]DNS%20and%20how%20it%20works.md)에 대해서 알아보도록 하자.
-
+<br>
 -----------
 
 ##### :clipboard: [참조] Reference
