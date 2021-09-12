@@ -2,9 +2,8 @@
 
 :writing_hand: *write by shinjeonghea*
 
-**:pushpin: DNS를 알기전에 [Domain Name](https://github.com/shinjeonghea/GC-Study/blob/main/%5BInternet%5DWhat%20is%20Domain%20Name.md)에 대한 내용을 먼저 보도록 하자. **
+**:pushpin: DNS를 알기전에 [Domain Name](https://github.com/shinjeonghea/GC-Study/blob/main/%5BInternet%5DWhat%20is%20Domain%20Name.md)에 대한 내용을 먼저 보도록 하자.**
 
-<br>
 
 ## DNS
 
@@ -18,7 +17,7 @@
 
 - DNS안에서 각자의 역할을 하는 서버
 - IP 주소를 특정 Domain Name과 같다고 저장하고, 사용자들이 Domain Name을 검색했을 때 IP 주소로 연결되도록 한다.
-
+<BR>
 
 
 ## DNS 동작 과정 - 1
@@ -31,8 +30,6 @@
 4. 브라우저에 12.123.123.123 IP 주소를 가진 호스팅 서버로 가도록 지시한다.
 
 5. 호스팅 서버가 브라우저의 요청을 받고 웹 사이트를 출력하여 보이게 한다.
-
-<BR>
 
 ##### 실제로는 도메인의 수가 너무 많기 때문에, DNS 서버 종류를 계층화해서 단계적으로 처리한다.
 
@@ -62,7 +59,7 @@
   - 그래서 권한의 의미인 Authoritative가 붙였다.
   - 일반적으로 **도메인/호스팅 업체의 ‘네임서버’**를 말하지만, 개인 DNS 서버 구축을 한 경우에도 여기에 해당한다.
 
-- **Recursive DNS Server **
+- **Recursive DNS Server**
 
   - 인터넷 사용자가 가장 먼저 접근하는 DNS 서버
   - 위 3개의 DNS 서버를 매번 거친다면 비효율적이므로, 한 번 거친 후 얻은 데이터를 일정 기간(TTL/Time to Live) 동안 **캐시라는 형태로 저장해 두는 서버**
@@ -93,11 +90,9 @@
 
 **:pushpin: 동작원리에서 계속 언급되었던 [호스팅 서버](./[Internet]What is hosting.md) 란 무엇일까?**
 
-<BR>
-
 -----------
 
-##### :clipboard: [참조] Reference
+### :clipboard: [참조] Reference
 
 - [AWS- DNS란 무엇입니까?](https://aws.amazon.com/ko/route53/what-is-dns/)
 - [Kyun2da.dev- DNS란 무엇인가?](https://kyun2da.dev/CS/dns%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
