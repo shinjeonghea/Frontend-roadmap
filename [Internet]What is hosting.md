@@ -2,7 +2,6 @@
 
 :writing_hand: *write by shinjeonghea*
 
-<BR>
 
 ## 호스팅
 
@@ -49,7 +48,7 @@
 
 -----------
 
-##### :clipboard: [참조] Reference
+### :clipboard: [참조] Reference
 
 - [[Developer MI-NE] - 호스팅(hosting)이란?](https://minemanemo.tistory.com/81?category=948107)
 - [g's - 도메인? 호스팅? 뭐가 다름? 개념/정의 알아보기](https://gentlysallim.com/%eb%8f%84%eb%a9%94%ec%9d%b8-%ed%98%b8%ec%8a%a4%ed%8c%85-%eb%ad%90%ea%b0%80-%eb%8b%a4%eb%a6%84-%ea%b0%9c%eb%85%90-%ec%a0%95%ec%9d%98-%ec%95%8c%ec%95%84%eb%b3%b4%ea%b8%b0/)
