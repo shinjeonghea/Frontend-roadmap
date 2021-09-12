@@ -2,7 +2,6 @@
 
 :writing_hand: *write by shinjeonghea*
 
-<BR>
 
 ## HTTP
 
@@ -88,7 +87,7 @@
 
 -----------
 
-##### :clipboard: [참조] Reference
+### :clipboard: [참조] Reference
 
 - [MDN - HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
 
