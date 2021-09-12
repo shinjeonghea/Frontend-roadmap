@@ -2,7 +2,6 @@
 
 :writing_hand: *write by shinjeonghea*
 
-<BR>
 
 ## 도메인 네임
 
@@ -28,7 +27,7 @@
 
 ## 도메인 네임의 구조
 
-<img src="https://한국인터넷정보센터.한국/images/renewal/imgDomainSys02.gif" width=550>
+<img src="https://user-images.githubusercontent.com/58902042/132996979-bdccc3c0-ccc9-4282-8438-258b31987111.gif" width=550>
 
 
 
@@ -49,13 +48,12 @@
 
 <br>
 
-**:pushpin: Domain Name에 대해 알아봤다면 다음은 [DNS](./[Internet]DNS%20and%20how%20it%20works.md) 를 알아봅시다.**
+**:pushpin: Domain Name에 대해 알아봤다면 다음은 [DNS](./[Internet]DNS%20and%20how%20it%20works.md) 를 알아보자.**
 
-<BR>
 
 -----------
 
-##### :clipboard: [참조] Reference
+### :clipboard: [참조] Reference
 
 - [MDN Web Docs-What is a domain name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
 - [생활코딩-도메인이란?](https://opentutorials.org/course/228/1450)
