@@ -90,10 +90,7 @@
 ### :clipboard: [참조] Reference
 
 - [MDN - HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
-
 - [chrisjune-[WEB] HTTP, TCP/IP, 메시지란?](https://chrisjune-13837.medium.com/web-http-tcp-ip-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%9E%80-4b2721fe296f)
-
 - [joeyful.log-[개발자 인터뷰] TCP/IP 4계층](https://velog.io/@jehjong/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-TCPIP-4%EA%B3%84%EC%B8%B5)
-
 - [sejong202.log- HTTP는 무엇일까요?](https://velog.io/@sejong202/HTTP%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 
