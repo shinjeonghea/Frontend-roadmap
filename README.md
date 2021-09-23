@@ -15,3 +15,12 @@
 - [What is Domain Name?](./%5BInternet%5DWhat%20is%20Domain%20Name.md)
 - [What is hosting?](./%5BInternet%5DWhat%20is%20hosting.md)
 
+## :lemon:HTML
+
+- [Learn the basics](./%5BHTML%5DLearn%20the%20basics.md)
+- [Writing Semantic HTML](./%5BHTML%5DWriting%20Semantic%20HTML.md)
+- [Froms and Validations](./%5BHTML%5DFroms%20and%20Validations.md)
+- [Accessibility](./%5BHTML%5DAccessibility.md)
+- [SEO Basics](./%5BHTML%5DSEO%20Basics.md)
+- [Conventions and Best Practices](./%5BHTML%5DConventions%20and%20Best%20Practices.md)
+
