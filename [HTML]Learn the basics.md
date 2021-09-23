@@ -4,9 +4,7 @@
 
 ## HTML
 
-- **H**yper **T**ext **M**arkup **L**anguage의 약자
-
-  <small>markup : 어떤 정보를 태그라고 하는 형식을 통해서 정의한다는 뜻</small>
+- **H**yper **T**ext **M**arkup **L**anguage의 약자<br><sub>markup : 어떤 정보를 태그라고 하는 형식을 통해서 정의한다는 뜻</sub>
 
 - **콘텐츠의 구조를 정하는 마크업 언어이다.**
 
