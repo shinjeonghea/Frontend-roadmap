@@ -57,14 +57,14 @@
 
   - 실제 개인 도메인과 IP 주소의 관계가 기록/저장/변경되는 서버
   - 그래서 권한의 의미인 Authoritative가 붙였다.
-  - 일반적으로 **도메인/호스팅 업체의 ‘네임서버’**를 말하지만, 개인 DNS 서버 구축을 한 경우에도 여기에 해당한다.
+  - 일반적으로 **도메인/호스팅 업체의 ‘네임서버’** 를 말하지만, 개인 DNS 서버 구축을 한 경우에도 여기에 해당한다.
 
 - **Recursive DNS Server**
 
   - 인터넷 사용자가 가장 먼저 접근하는 DNS 서버
   - 위 3개의 DNS 서버를 매번 거친다면 비효율적이므로, 한 번 거친 후 얻은 데이터를 일정 기간(TTL/Time to Live) 동안 **캐시라는 형태로 저장해 두는 서버**
   - 직접 도메인과 IP 주소의 관계를 기록/저장/변경하지는 않고 캐시만을 보관하기 때문에, Authoritative와 비교되는 의미로 반복의 Recursive를 붙였다.
-    - 대표적으로 KT/LG/SK와 같은 **ISP(통신사) DNS 서버**가 있고, 브라우저 우회 용도로 많이 쓰는 구글 DNS, 클라우드플레어와 같은 Public DNS 서버가 있다.
+    - 대표적으로 KT/LG/SK와 같은 **ISP(통신사) DNS 서버** 가 있고, 브라우저 우회 용도로 많이 쓰는 구글 DNS, 클라우드플레어와 같은 Public DNS 서버가 있다.
 
 - 브라우저는 캐시가 저장된 Recursive 서버를 사용하고, 실제 네임서버를 설정하는 곳은 Authoritative 서버
 
@@ -97,5 +97,4 @@
 - [AWS- DNS란 무엇입니까?](https://aws.amazon.com/ko/route53/what-is-dns/)
 - [Kyun2da.dev- DNS란 무엇인가?](https://kyun2da.dev/CS/dns%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 - [g's - DNS란 뭐고, 네임서버란 뭔지 개념 정리](https://gentlysallim.com/dns%eb%9e%80-%eb%ad%90%ea%b3%a0-%eb%84%a4%ec%9e%84%ec%84%9c%eb%b2%84%eb%9e%80-%eb%ad%94%ec%a7%80-%ea%b0%9c%eb%85%90%ec%a0%95%eb%a6%ac/)
-
 - [해시넷 - ICANN](http://wiki.hash.kr/index.php/ICANN)

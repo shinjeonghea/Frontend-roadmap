@@ -2,8 +2,6 @@
 
 :writing_hand: *write by shinjeonghea*
 
-<BR>
-
 ## 브라우저
 
 - **웹 페이지, 이미지, 비디오 등의 콘텐츠를 수신, 전송 및 표현하는 소프트웨어**
@@ -141,15 +139,11 @@
 
 **:pushpin:더 자세히 알고싶다면 [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) 이 링크를 통해 확인하도록 하자.**
 
-<br>
-
 -----------
 
-##### :clipboard: [참조] Reference
+### :clipboard: [참조] Reference
 
 - [브라우저란 무엇이며 어떻게 작동할까?](https://oneroomtable.tistory.com/entry/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%97%AD%ED%95%A0)
 - [브라우저 동작 과정에 대해 알아보자(DOM, Parsing)](https://kim6394.tistory.com/217)
-
 - [브라우저 동작 원리](https://poiemaweb.com/js-browser)
-
 - [Jkun.io - 브라우저 동작 원리](https://yilpe93.github.io/Web/browser/)
