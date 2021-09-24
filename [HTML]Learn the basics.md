@@ -75,6 +75,78 @@
 
 ## HTML 요소의 종류
 
+**이미지**
+
+~~~html
+<img src="images/firefox-icon.png" alt="My test image">
+~~~
+
+- 이미지를 나타내는 요소
+- 속성 
+  - src - 이미지 파일의 경로
+  - alt - 이미지에 대한 설명문
+
+**제목**
+
+~~~html
+<h1>My main title</h1>
+<h2>My top level heading</h2>
+<h3>My subheading</h3>
+<h4>My sub-subheading</h4>
+~~~
+
+- 특정부분을 제목 또는 하위 제목으로 구체화
+- HTML은 \<h1> ~ \<h6>까지의 단계를 가진다.
+
+**문단**
+
+~~~html
+<p>This is a single paragraph</p>
+~~~
+
+- 문자의 문단을 포함하기 위한 요소
+- 일반적인 문자내용을 나타낼 때 사용한다.
+
+**목록**
+
+- 목록의 항목들은 **\<li> (목록항목)** 요소 안에 놓인다
+
+1. **순서 없는 목록**
+
+   ~~~html
+   <ul>
+     <li>technologists</li>
+     <li>thinkers</li>
+     <li>builders</li>
+   </ul>
+   ~~~
+
+   - \<ul> 요소로 둘러쌓여 있다.
+   - 쇼핑 목록과 같이 항목의 순서에 관계없는 목록을 위한 것
+
+2. **순서 있는 목록**
+
+   ~~~html
+   <ol>
+     <li>wash your hands</li>
+     <li>cut a carrot</li>
+     <li>fry potatoes </li>
+   </ol>
+   ~~~
+
+   - \<ol> 요소로 둘러쌓여 있다.
+   - 조리법처럼 항목의 순서가 중요한 목록을 위한 것
+
+**연결**
+
+~~~html
+<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+~~~
+
+- 단어를 웹에 연결하는 링크로 만들어 준다.
+- 속성
+  - href - 연결하고자 하는 웹의 주소와 연결
+
 <br>
 
 ## HTML 문서 구조
