@@ -179,6 +179,10 @@
    - ` <figure>` 태그는 이미지나 비디오, 코드 같은 미디어 포함
    - 이때, 미디어에 시각적 설명을 추가하기 위해 `<figcaption>` 사용
 
+<BR>
+
+**:pushpin: Sematic HTML을 사용하므로써 개선되는 [Accessibility](./%5BHTML%5DAccessibility.md) 과 [SEO](./%5BHTML%5DSEO%20Basics.md) 가 무엇인지 더 알아보자.**
+
 -----------
 
 ### :clipboard: [참조] Reference
