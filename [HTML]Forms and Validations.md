@@ -64,7 +64,7 @@ form 속성을 이용하여 전송할 위치와 방법을 정한다.
   </form>
   ~~~
 
-#### 1-1. Method 속성
+### 1-1. Method 속성
 
 - Method의 속성은 GET과 POST
 
