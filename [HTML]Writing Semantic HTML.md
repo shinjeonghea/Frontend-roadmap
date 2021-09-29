@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/58902042/134606059-6c817db9-f69e-4890-9e0c-9426fa02bafc.png" width=350> 
 
-**시맨틱하지 않은 **
+**시맨틱하지 않은**
 
 - `<div>` 와 `<span>` 등
 - 태그에 포함되는 내용에 대한 어떤한 정보도 제공하지 못한다.
